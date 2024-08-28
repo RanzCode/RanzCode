@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanzCode
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Html,CSS, Java, and C++
+- 🌱 I’m currently learning Html,CSS,and Javascript
 - 💞️ I’m looking to collaborate on fellow students or individual to create and share an ideas. 
 - 📫 How to reach me -
 
